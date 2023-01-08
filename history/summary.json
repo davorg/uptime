@@ -4,19 +4,19 @@
     "url": "https://lineofsuccession.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/lineofsuccession.co.uk.ico",
     "slug": "line-of-succession",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1358,
-    "timeDay": 1187,
-    "timeWeek": 1312,
-    "timeMonth": 1352,
-    "timeYear": 1358,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1359,
+    "timeDay": 1317,
+    "timeWeek": 1329,
+    "timeMonth": 1355,
+    "timeYear": 1359,
     "dailyMinutesDown": {
-      "2023-01-08": 2
+      "2023-01-08": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dave.org.uk.ico",
     "slug": "dave-org-uk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 782,
-    "timeWeek": 974,
-    "timeMonth": 781,
-    "timeYear": 840,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 845,
+    "timeDay": 974,
+    "timeWeek": 998,
+    "timeMonth": 793,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-01-08": 1
+      "2023-01-08": 7
     }
   },
   {
