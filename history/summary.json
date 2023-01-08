@@ -4,10 +4,10 @@
     "url": "https://lineofsuccession.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/lineofsuccession.co.uk.ico",
     "slug": "line-of-succession",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1358,
@@ -15,7 +15,9 @@
     "timeWeek": 1312,
     "timeMonth": 1352,
     "timeYear": 1358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-08": 2
+    }
   },
   {
     "name": "Dave Cross",
@@ -40,10 +42,10 @@
     "url": "https://dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dave.org.uk.ico",
     "slug": "dave-org-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
@@ -51,7 +53,9 @@
     "timeWeek": 974,
     "timeMonth": 781,
     "timeYear": 840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-08": 1
+    }
   },
   {
     "name": "Davblog",
@@ -79,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/perlhacks.com.ico",
     "slug": "perl-hacks",
     "status": "up",
-    "uptime": "94.17%",
+    "uptime": "94.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.14%",
-    "uptimeYear": "94.17%",
+    "uptimeYear": "94.18%",
     "time": 1361,
     "timeDay": 1769,
     "timeWeek": 1276,
