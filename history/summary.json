@@ -4,18 +4,20 @@
     "url": "https://lineofsuccession.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/lineofsuccession.co.uk.ico",
     "slug": "line-of-succession",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1572,
     "timeDay": 4666,
     "timeWeek": 2457,
     "timeMonth": 1801,
     "timeYear": 1572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Dave Cross",
@@ -40,19 +42,19 @@
     "url": "https://dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dave.org.uk.ico",
     "slug": "dave-org-uk",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 896,
     "timeDay": 968,
     "timeWeek": 1016,
     "timeMonth": 999,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2023-01-25": 34
+      "2023-01-25": 36
     }
   },
   {
@@ -60,11 +62,11 @@
     "url": "https://blog.dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.dave.org.uk.ico",
     "slug": "davblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.82%",
     "time": 1638,
     "timeDay": 10875,
@@ -72,7 +74,7 @@
     "timeMonth": 2191,
     "timeYear": 1638,
     "dailyMinutesDown": {
-      "2023-01-25": 73,
+      "2023-01-25": 65,
       "2022-12-09": 108
     }
   },
@@ -82,18 +84,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/perlhacks.com.ico",
     "slug": "perl-hacks",
     "status": "down",
-    "uptime": "95.57%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "95.57%",
+    "uptime": "95.55%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "95.55%",
     "time": 1766,
     "timeDay": 9813,
     "timeWeek": 4688,
     "timeMonth": 2253,
     "timeYear": 1766,
     "dailyMinutesDown": {
-      "2023-01-25": 68,
+      "2023-01-25": 85,
       "2022-12-12": 1012,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
@@ -105,9 +107,9 @@
     "url": "https://feeds.dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/feeds.dave.org.uk.ico",
     "slug": "feeds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,6 +118,8 @@
     "timeWeek": 1107,
     "timeMonth": 756,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
