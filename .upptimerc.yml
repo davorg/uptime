@@ -15,6 +15,12 @@ sites:
     url: https://perlhacks.com/
   - name: Feeds
     url: https://feeds.dave.org.uk/
+  - name: Lystyng
+    url: https://lystyng.com/
+  - name: Melody
+    url: https://melody.red-mirror.com/
+  - name: Perl Diver Auth
+    url: https://pdauth.perlhacks.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
