@@ -26,19 +26,19 @@
     "url": "https://davecross.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/davecross.co.uk.ico",
     "slug": "dave-cross",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 153,
-    "timeWeek": 195,
-    "timeMonth": 205,
+    "timeDay": 182,
+    "timeWeek": 200,
+    "timeMonth": 206,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 13
     }
   },
   {
@@ -145,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 127,
+      "2023-10-03": 140,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 127,
+      "2023-10-03": 140,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
