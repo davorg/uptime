@@ -1,7 +1,7 @@
 url: https://blog.dave.org.uk/
-status: up
-code: 200
-responseTime: 1281
-lastUpdated: 2023-10-30T23:01:22.016Z
+status: down
+code: 503
+responseTime: 535
+lastUpdated: 2023-10-31T14:10:13.763Z
 startTime: 2022-11-17T14:26:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
