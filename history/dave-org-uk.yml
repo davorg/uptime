@@ -1,7 +1,7 @@
 url: https://dave.org.uk/
-status: down
-code: 503
-responseTime: 480
-lastUpdated: 2023-12-07T01:37:17.603Z
+status: up
+code: 200
+responseTime: 1226
+lastUpdated: 2023-12-07T02:01:52.325Z
 startTime: 2022-11-17T14:26:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
