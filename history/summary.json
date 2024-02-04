@@ -4,10 +4,10 @@
     "url": "https://lineofsuccession.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/lineofsuccession.co.uk.ico",
     "slug": "line-of-succession",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1369,
@@ -16,6 +16,7 @@
     "timeMonth": 1326,
     "timeYear": 1329,
     "dailyMinutesDown": {
+      "2024-02-04": 1,
       "2023-09-04": 16,
       "2023-05-21": 16
     }
@@ -43,9 +44,9 @@
     "url": "https://dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dave.org.uk.ico",
     "slug": "dave-org-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -55,6 +56,7 @@
     "timeMonth": 1058,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2024-02-04": 0,
       "2023-12-07": 25,
       "2023-09-04": 16
     }
@@ -132,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-04": 7,
+      "2024-02-04": 210,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
@@ -287,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-04": 7,
+      "2024-02-04": 210,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
