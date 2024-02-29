@@ -25,10 +25,10 @@
     "url": "https://davecross.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/davecross.co.uk.ico",
     "slug": "dave-cross",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
@@ -36,7 +36,9 @@
     "timeWeek": 213,
     "timeMonth": 205,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 2
+    }
   },
   {
     "name": "dave.org.uk",
@@ -85,10 +87,10 @@
     "url": "https://perlhacks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/perlhacks.com.ico",
     "slug": "perl-hacks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1583,
@@ -96,7 +98,9 @@
     "timeWeek": 1756,
     "timeMonth": 2008,
     "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 1
+    }
   },
   {
     "name": "Feeds",
@@ -133,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 6,
+      "2024-02-29": 665,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -313,7 +317,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 6,
+      "2024-02-29": 665,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
