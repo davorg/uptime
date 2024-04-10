@@ -86,19 +86,19 @@
     "url": "https://perlhacks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/perlhacks.com.ico",
     "slug": "perl-hacks",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1619,
-    "timeDay": 969,
-    "timeWeek": 1447,
-    "timeMonth": 1865,
+    "time": 1620,
+    "timeDay": 1142,
+    "timeWeek": 1451,
+    "timeMonth": 1854,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 9
     }
   },
   {
@@ -143,7 +143,7 @@
     "uptime": "13.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.67%",
+    "uptimeMonth": "87.69%",
     "uptimeYear": "13.54%",
     "time": 211,
     "timeDay": 200,
@@ -345,7 +345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-10": 942,
+      "2024-04-10": 952,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
