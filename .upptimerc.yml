@@ -21,6 +21,12 @@ sites:
     url: https://melody.red-mirror.com/
   - name: Perl Diver Auth
     url: https://pdauth.perlhacks.com/
+  - name: AdServer
+    url: https://ads.davecross.co.uk/
+  - name: Klortho
+    url: https://klortho.perlhacks.com/
+  - name: Aphra
+    https://aphra.perlhacks.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
