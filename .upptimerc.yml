@@ -26,7 +26,7 @@ sites:
   - name: Klortho
     url: https://klortho.perlhacks.com/
   - name: Aphra
-    https://aphra.perlhacks.com/
+    utl: https://aphra.perlhacks.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
