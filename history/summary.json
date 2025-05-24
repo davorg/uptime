@@ -6,9 +6,9 @@
     "slug": "line-of-succession",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
     "time": 1730,
     "timeDay": 1555,
@@ -16,7 +16,6 @@
     "timeMonth": 2005,
     "timeYear": 1802,
     "dailyMinutesDown": {
-      "2025-05-23": 12,
       "2025-03-03": 34,
       "2025-02-20": 42,
       "2024-07-28": 70,
@@ -331,7 +330,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.26%",
     "time": 849,
     "timeDay": 791,
     "timeWeek": 781,
@@ -376,8 +375,7 @@
       "2024-05-29": 90,
       "2024-05-27": 408,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
