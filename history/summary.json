@@ -70,19 +70,19 @@
     "url": "https://blog.dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.dave.org.uk.ico",
     "slug": "davblog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1576,
-    "timeDay": 1213,
-    "timeWeek": 1411,
-    "timeMonth": 2229,
-    "timeYear": 1585,
+    "time": 1577,
+    "timeDay": 1306,
+    "timeWeek": 1409,
+    "timeMonth": 2202,
+    "timeYear": 1584,
     "dailyMinutesDown": {
-      "2025-09-03": 0
+      "2025-09-03": 14
     }
   },
   {
