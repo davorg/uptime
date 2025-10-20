@@ -4,18 +4,19 @@
     "url": "https://lineofsuccession.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/lineofsuccession.co.uk.ico",
     "slug": "line-of-succession",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 2108,
+    "time": 2110,
     "timeDay": 1446,
     "timeWeek": 1372,
     "timeMonth": 1414,
     "timeYear": 2214,
     "dailyMinutesDown": {
+      "2025-10-20": 3,
       "2025-09-21": 32,
       "2025-09-02": 17,
       "2025-08-28": 23,
@@ -71,28 +72,30 @@
     "url": "https://blog.dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.dave.org.uk.ico",
     "slug": "davblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1628,
     "timeDay": 1328,
     "timeWeek": 1361,
     "timeMonth": 1431,
     "timeYear": 1661,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "Perl Hacks",
     "url": "https://perlhacks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/perlhacks.com.ico",
     "slug": "perl-hacks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1421,
@@ -100,7 +103,9 @@
     "timeWeek": 1285,
     "timeMonth": 1448,
     "timeYear": 1409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "Feeds",
@@ -150,10 +155,10 @@
     "url": "https://melody.red-mirror.com/",
     "icon": "https://icons.duckduckgo.com/ip3/melody.red-mirror.com.ico",
     "slug": "melody",
-    "status": "up",
+    "status": "down",
     "uptime": "67.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 815,
@@ -162,6 +167,7 @@
     "timeMonth": 739,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-05-29": 206
     }
   },
@@ -170,10 +176,10 @@
     "url": "https://pdauth.perlhacks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pdauth.perlhacks.com.ico",
     "slug": "perl-diver-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 613,
@@ -182,6 +188,7 @@
     "timeMonth": 480,
     "timeYear": 617,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-05-29": 206
     }
   },
@@ -190,9 +197,9 @@
     "url": "https://ads.davecross.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/ads.davecross.co.uk.ico",
     "slug": "ad-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
@@ -202,6 +209,7 @@
     "timeMonth": 514,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-05-29": 206,
       "2025-01-10": 933,
       "2025-01-09": 602
