@@ -160,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lystyng.com.ico",
     "slug": "lystyng",
     "status": "up",
-    "uptime": "82.52%",
+    "uptime": "82.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -178,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/melody.red-mirror.com.ico",
     "slug": "melody",
     "status": "down",
-    "uptime": "75.43%",
+    "uptime": "75.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -199,9 +199,9 @@
     "url": "https://pdauth.perlhacks.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pdauth.perlhacks.com.ico",
     "slug": "perl-diver-auth",
-    "status": "up",
-    "uptime": "83.24%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "83.25%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "55.23%",
@@ -376,7 +376,8 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 26
+      "2025-11-10": 26,
+      "2026-06-14": 0
     }
   },
   {
