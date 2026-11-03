@@ -75,13 +75,13 @@
     "url": "https://blog.dave.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.dave.org.uk.ico",
     "slug": "davblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1600,
+    "time": 1601,
     "timeDay": 16559,
     "timeWeek": 6402,
     "timeMonth": 2581,
@@ -92,7 +92,7 @@
       "2026-04-03": 15,
       "2026-04-09": 31,
       "2026-06-12": 379,
-      "2026-11-03": 9
+      "2026-11-03": 2
     }
   },
   {
